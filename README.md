@@ -1,4 +1,4 @@
-Projet réalisé par : MOHAMMED-AYMAN ZROUDI/ZAKARIA LAALYEJ/ AYMAN EL GARNAOUI
+Projet réalisé par : MOHAMMED-AYMAN ZROUDI/ZAKARIA LAALYEJ/ AYMAN EL GARNAOUI GROUPE 2
 Le code ci-dessus est un programme de gestion de bibliothèque écrit en langage C. Il permet d'effectuer diverses opérations sur une collection de livres, notamment l'ajout, la modification, la suppression, l'affichage, la recherche, le tri et la sauvegarde dans un fichier CSV. Voici une description détaillée des fonctions implémentées dans ce programme :
 
 Structures et Définitions
